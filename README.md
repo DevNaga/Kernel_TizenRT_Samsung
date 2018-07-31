@@ -1,3 +1,6 @@
+# Разум создавший Linux [ted.com]
+https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=ru
+
 # TizenRT
 
 [![License](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat)](LICENSE)
