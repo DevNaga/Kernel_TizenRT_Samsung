@@ -6,7 +6,7 @@ https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
 
 ![Image alt](http://www.geek.com/wp-content/uploads/2012/07/Samsung-ES9000.jpg)
 
-![Image alt](https://gecid.com/data/news/201207071526-20963/img/Samsung_ES9000.jpg)
+![Image alt](http://cdn.gadgetreview.com/wp-content/uploads/2015/05/LG-Wallpaper-Display.jpg)
 
 ![Image alt](http://4k.com/wp-content/uploads/2015/12/ks8000-smart-tv-medium.jpg)
 
