@@ -8,6 +8,8 @@ https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
 
 ![Image alt](http://cdn.gadgetreview.com/wp-content/uploads/2015/05/LG-Wallpaper-Display.jpg)
 
+![Image alt](http://europe-tc.ru/gallery/big/in_1686.jpg)
+
 ![Image alt](https://images.samsung.com/is/image/samsung/p5/sg/business/solutions/industry-solutions/hospitality-solutions/feature-images/hospitality-solutions-feature-images-4-3-magic-info-large.jpg)
 
 Разработка модулей ядра Linux
