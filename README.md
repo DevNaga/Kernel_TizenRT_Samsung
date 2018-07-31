@@ -2,6 +2,8 @@
 
 https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
 
+![Image alt](https://i.ytimg.com/vi/-nBfYb29HJ8/maxresdefault.jpg)
+
 ![Image alt](https://3dnews.ru/assets/external/illustrations/2017/08/10/956786/tizen1.jpg)
 
 ![Image alt](http://4k.com/wp-content/uploads/2015/12/ks8000-smart-tv-medium.jpg)
