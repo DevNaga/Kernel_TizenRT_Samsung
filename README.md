@@ -1,4 +1,5 @@
-# Архитектура ядра [TezenRT] от Samsung, Kernel Architecture [TizenRT] https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
+# Архитектура ядра [TezenRT] от Samsung
+https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
 
 # Разум создавший Linux [ted.com]
 https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=ru
