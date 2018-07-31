@@ -1,10 +1,13 @@
 # Архитектура ядра [TezenRT] от Samsung
+
 https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
 
 Разработка модулей ядра Linux
+
 https://www.youtube.com/playlist?list=PLrTrFnOkIFb0712dNSb-_E0hJsjUZQVIo
 
 # Разум создавший Linux [ted.com]
+
 https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=ru
 
 # TizenRT
