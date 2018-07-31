@@ -20,6 +20,16 @@ https://www.youtube.com/playlist?list=PLrTrFnOkIFb0712dNSb-_E0hJsjUZQVIo
 
 https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=ru
 
+# Архитектура [Geode] Реверс инжениринг движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
+Geode был создан компанией Gemstone Systems в 2002 году и применяется в качестве высокопроизводительного движка обработки финансовых транзакций в торговых платформах различных компаний на Уолл-стрит.
+
+В качестве примера внедрения Geode это Национальная железная дорога Китая, в которой кластер из 20 узлов (10 основных и 10 запасных) обеспечивает хранение 2 Тб оперативной информации о билетах. 
+![Image alt](http://chinalogist.ru/sites/default/files/speed-railwas-of-china4.png)
+![Image alt](https://i0.wp.com/www.wilowallstreet.com/wp-content/uploads/2015/11/100914_wall_street_605.jpg)
+
+Архитектура [Geode] & Реверс инжениринг движка обработки финансовых транзакций
+https://drive.google.com/drive/folders/1tetUejh8WzscoCbCHPsdILM6desm5GzX
+
 # TizenRT
 
 [![License](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat)](LICENSE)
