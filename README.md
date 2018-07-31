@@ -12,7 +12,6 @@ https://drive.google.com/drive/folders/1VYuaYKkbBFACNjZhE82jOKziJvamFrce
 
 ![Image alt](https://images.samsung.com/is/image/samsung/p5/sg/business/solutions/industry-solutions/hospitality-solutions/feature-images/hospitality-solutions-feature-images-4-3-magic-info-large.jpg)
 
-
 # Разработка модулей ядра Linux
 
 https://www.youtube.com/playlist?list=PLrTrFnOkIFb0712dNSb-_E0hJsjUZQVIo
