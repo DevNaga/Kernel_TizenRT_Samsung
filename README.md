@@ -50,6 +50,10 @@ https://github.com/gridgentoo/deeplearning4j
 
 ![Image alt](https://i2.wp.com/mesutpiskin.com/blog/wp-content/uploads/2017/09/dl4j-eco-tr.jpg.jpg)
 
+Deep Learning with DeepLearning4J and Spring Boot - Artur Garcia & Dimas Cabré @ Spring I/O
+
+https://www.youtube.com/watch?v=RlL9MNT-R3k
+
 # TizenRT
 
 [![License](https://img.shields.io/badge/licence-Apache%202.0-brightgreen.svg?style=flat)](LICENSE)
